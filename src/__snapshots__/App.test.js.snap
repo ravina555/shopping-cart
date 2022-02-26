@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ToggleComponent Should render App component 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="cartBg"
+  >
+    <div
+      className="Products"
+    />
+  </div>
+</div>
+`;
